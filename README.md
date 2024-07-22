@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giriraj-code
 - 👀 I’m interested in ... FullStack Web Development
-- 🌱 I’m currently learning ...javascript,js.node,js.exoress
+- 🌱 I’m currently learning ...React.js,javascript,node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...gmail: jgirirajkumar@gmail.com
 - 😄 Pronouns: ...
