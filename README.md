@@ -109,7 +109,6 @@
   <img src="https://raw.githubusercontent.com/Giriraj-code/Giriraj-code/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </p>
 
-> ⚠️ This only renders once you add the Snake workflow below to your profile repo (one-time setup, 2 minutes).
 
 ---
 
