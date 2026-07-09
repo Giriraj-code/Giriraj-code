@@ -80,8 +80,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Giriraj-code&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giriraj-code&layout=compact&theme=radical&hide_border=true"/>
+ <img height="165" src="https://github-readme-stats-sigma-orpin.vercel.app/api?username=Giriraj-code&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats-sigma-orpin.vercel.app/api/top-langs/?username=Giriraj-code&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -93,11 +93,6 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Giriraj-code&theme=onedark&no-frame=true&row=1&column=7"/>
-
 ---
 
 ### 🐍 Contribution Snake
