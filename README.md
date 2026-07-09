@@ -96,9 +96,7 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giriraj-code&theme=onedark&no-frame=true&row=1&column=7"/>
-</p>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Giriraj-code&theme=onedark&no-frame=true&row=1&column=7"/>
 
 ---
 
